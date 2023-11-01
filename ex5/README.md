@@ -1,5 +1,5 @@
-# Exercise 5 - Enable SaaS and Deploy the Project
-## Enable SaaS
+# Exercise 5 - Enable Multitenancy and Deploy the Project
+## Enable Multitenancy
 
 ### Make Application Multitenant
 We will now make our application multitenant.
@@ -16,7 +16,7 @@ Another page will open with more information on Multitenancy. Click 'Enable Mult
 
 ![Picture](./images/3.png)
 
-A dialog will open up. Click 'Enable Multitenancy' again. Keep in mind that enabling SaaS here is an irreversible change.
+A dialog will open up. Click 'Enable Multitenancy' again. Keep in mind that enabling Multitenancy here is an irreversible change.
 
 ![Picture](./images/4.png)
 
