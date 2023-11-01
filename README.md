@@ -28,4 +28,4 @@ We will then consume it from another subaccount within the same global account a
 
 The goal of this introduction was to give a clear understanding of the concepts involved in creating a Multitenant Application and why it is useful to build applications following this approach.
 
-Continue to - [Exercise 1 -  Set Up a CAP Application](../ex1/README.md)
+Continue to - [Exercise 1 -  Set Up a CAP Application](ex1/README.md)
